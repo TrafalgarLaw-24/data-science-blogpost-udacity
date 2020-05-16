@@ -10,9 +10,9 @@ To be able to run this notebook, you need to install these following libraries:
 
 ### Introduction
 In this article I used Stack Overflow Survey Data 2019 to answer several questions such as how much is developers job satisfaction levels, how much is their total salary, etc. The data can be found in the following link [StackOverFlow](https://insights.stackoverflow.com/survey). This data contains nearly 90,000 responses from over 170 countries. I used jupyter notebook to do the analysis which you can find in the `DataScience Blog Post Udacity.ipynb` file.
-<br>
-<br>
+
 There are several questions that can be explored from the survey data, and these are three questions I focused on.
+
 1. Is there a difference in job satisfaction between developers whose undergraduate major is IT-related than others?
 2. Which country has the highest job satisfaction for developers ?
 3. Is there any differences in salary between people who contribute to open source and those who are not?
